@@ -1,0 +1,12 @@
+#boldText{
+    font-weight: bold;
+}
+
+/* вывод ошибки */
+.errorToSite{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: orangered;
+    text-align: center;
+    width: 400px;
+}
