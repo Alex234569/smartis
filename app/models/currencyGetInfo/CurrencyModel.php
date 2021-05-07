@@ -48,9 +48,9 @@ class currencyModel
     }
 
     /**
-     * @return string
+     * @return ?string
      */
-    public function getDateEnd(): string
+    public function getDateEnd(): ?string
     {
         return $this->dateEnd;
     }

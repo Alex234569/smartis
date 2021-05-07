@@ -5,6 +5,10 @@ namespace app\controllers;
 
 use app\models\validate\DateValidate;
 
+/**
+ * Class ValidateController
+ * @package app\controllers
+ */
 class ValidateController
 {
     /**

@@ -73,7 +73,6 @@ class GetInfo
         $xml = simplexml_load_file('http://www.cbr.ru/scripts/XML_dynamic.asp?date_req1='. $this->dateStart . '&date_req2=' . $this->dateEnd. '&VAL_NM_RQ=R01235');
         $jsonXML = json_encode($xml);
         $xmlArr = json_decode($jsonXML,TRUE);
-print_r($xmlArr);
 
         if (!isset($xmlArr['Record'])) {
             // в ответе нет так таковой ошибки, но в нем так же нет нужного результата. Пример - указать обе даты из будущего

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffddcda6-c0e6-4393-8d78-3e6c862a41b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/views/Graph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/CurrencyController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/CurrencyController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/ValidateController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ValidateController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/autoloader.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/autoloader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/currencyGetInfo/CurrencyModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/currencyGetInfo/CurrencyModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/currencyGetInfo/GetInfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/currencyGetInfo/GetInfo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Template.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sBH5EZYsjLI5k9VMVULBqpraaL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffddcda6-c0e6-4393-8d78-3e6c862a41b8" name="Default Changelist" comment="" />
+      <created>1620338878043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620338878043</updated>
+      <workItem from="1620338879509" duration="8466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
